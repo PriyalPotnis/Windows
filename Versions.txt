@@ -1,0 +1,20 @@
+*Versions
+upto windows 98 it support only DOS. That means it does not recognise 64mb of ram instead it support FAT32 file system.
+Do not recognise NTFS.
+They lack repair feature hence it is impossible to replace motherboard you need to reinstall windows.
+Lack memory protection so computer gets crash.
+
+Then comes windows 2000 where there is repair feature available and also you can change motherboard without reinstalling windows.
+It can recognise 4 gb ram but works better with 256mb ram. IE7 not supported. mozilla firefox can run.
+
+Windows XP: It runs well on 1 gb ram. does not support IE9.
+
+Windows Vista: Vista is really a waste version why because it works well only on 2 gb ram. thus pcs with less than 2 gb ram does not work well on vista. it supports IE9. runs faster supports 4gb ram. but does not supports periferrals of printers.
+
+Windows 7: It overcomes disadvantages of windows vista. It is available with 32 bit and 64 bit.
+
+Windows 8: Here start menu is removed with different gui
+
+http://jonrosensystems.com/2011/05/comparing-all-windows-versions/#.WrOqi6hubIU
+
+https://4sysops.com/archives/windows-7-and-windows-server-2008-r2-the-better-together-features/
